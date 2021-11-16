@@ -1,4 +1,4 @@
-# Prosperer Loan Data 
+# Prosper Loan Data 
 ## by Dimitrios Karslidis
 
 
