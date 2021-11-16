@@ -8,3 +8,4 @@ Collection of project related to Data Analysis
  This project is focused on conduction an A/B test. This test is very helpful on deciding whehter a compmany should launch a new webpage or keep the old one.
 * Project 4. The main bulk of this project had to do with wrangling data (gather, assess, clean). Tha data was collected from multiple sources. All the steps of wrangling process and vidualization are demonstrated in the notebook wrangle_act.ipynb. The report for this project can be found in the notebook wrangle_report.ipynb.
 * Project 5. The main focus in this project was on visualizing data using libraries such as matplotlib and seaborn.
+  The data 
