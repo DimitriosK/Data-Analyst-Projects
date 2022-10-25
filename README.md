@@ -1,7 +1,7 @@
 # Data-Analyst-Projects
 Collection of project related to Data Analysis
 * Project 1-Explore weather trends.
- The goal in Project 1 was to analyze the local and the global temperature and discover some trends in the temperature data. I used SQL to get data from the database provided by Udacity.
+   * The goal in Project 1 was to analyze the local and the global temperature and discover some trends in the temperature data. I used SQL to get data from the database provided by Udacity.
 * Project 2-Analyze A/B test results. 
  In this project we analyzed the TMDb movie data provided by Udacity. This dataset consists of more than 10000 rows (movies) with 21 features (columns) associated with each movie. 
 * Project 3. 
