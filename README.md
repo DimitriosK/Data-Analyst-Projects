@@ -2,7 +2,7 @@
 Collection of project related to Data Analysis
 * Project 1-Explore weather trends.
  The goal in Project 1 was to analyze the local and the global temperature and discover some trends in the temperature data. I used SQL to get data from the database provided by Udacity.
-* Project 2. 
+* Project 2-Analyze A/B test results. 
  In this project we analyzed the TMDb movie data provided by Udacity. This dataset consists of more than 10000 rows (movies) with 21 features (columns) associated with each movie. 
 * Project 3. 
  This project is focused on conduction an A/B test. This test is very helpful on deciding whether a company should launch a new webpage or keep the old one.
